@@ -1,3 +1,5 @@
-This is the readme file for BadApples Book Githu site.
+This is the readme file for BadApples Book Github site.
 ----- START THIS ----
-2222222222
+
+DO NOT USE YET
+
