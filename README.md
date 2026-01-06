@@ -1,4 +1,4 @@
-# Bad Apples - Free Book
+# _Bad Apples, Bad Water_ - Free Book
 
 ![Bad Apples Cover](Bad-Apples-Cover-6.jpg "Bad Apples")
 
