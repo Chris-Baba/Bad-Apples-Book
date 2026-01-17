@@ -5,7 +5,7 @@
 ## _Bad Apples, Bad Water_
 ### _Lead Arsenate Pesticide, the Holocaust, and Beyound_
 
-This book will help you understand the real reason behind most of the senseless acts of violence that occured in the last 125 years.  Both World Wars and the Holocaust were largely caused by lead arsenate, an arsenic containing pesticide that was used extensively in the 1900's.
+This book will help you understand the real reason behind most of the senseless acts of violence that occurred in the last 125 years.  Both World Wars and the Holocaust were largely caused by lead arsenate, an arsenic containing pesticide that was used extensively in the 1900's.
 
 Billions of pounds of this poison were applied to farms all over the world.
 
@@ -39,10 +39,10 @@ This GitHub repository holds free copies of this book in various electronic form
 4) Load it to your e-reader, (May require side-loading, which is not described here.)
 
 --------
-![Townies With Torches Logo](Townies-With-Torches-Logo.png)
+![Townies With Torches Logo](Townies-With-Torches-LOGO-3.png)
 -------
 
-Bad Apples, Bad Water © 2025 by Chris Baba
+Bad Apples, Bad Water © 2026 by Chris Baba
 
 Bad Apples, Bad Water is licensed under Creative Commons Attribution-
 NonCommercial-NoDerivatives 4.0 International. To view a copy of this
